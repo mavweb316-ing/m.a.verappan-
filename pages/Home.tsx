@@ -54,7 +54,7 @@ const Home: React.FC = () => {
             <div className="lg:w-3/5 space-y-6">
               <FadeIn>
                 <div className="inline-block px-3 py-1 bg-blue-500/20 border border-blue-400/30 rounded-full text-blue-200 text-sm font-semibold mb-2">
-                  Established 1983
+                  Established 1951
                 </div>
                 <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
                   Auto Spare Parts & Service Trusted in <span className="text-brand-accent">Sungai Petani</span>
